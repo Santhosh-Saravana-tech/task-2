@@ -20,6 +20,11 @@ To create a new user on your system, you can use either of the following command
 ```sh
 useradd username
 ```
+#### **1. `useradd` Command:**
+tried new way
+```sh
+useradd user
+```
 
 #### **2. `adduser` Command:**
 In some Linux distributions (like Debian-based systems), `adduser` is a more user-friendly script for creating users.
